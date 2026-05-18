@@ -1,0 +1,18 @@
+# Variáveis sensíveis
+.env
+
+# Cache Python
+__pycache__/
+
+# Ambiente virtual
+venv/
+
+# Arquivos VSCode
+.vscode/
+
+# Python compilado
+*.pyc
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
